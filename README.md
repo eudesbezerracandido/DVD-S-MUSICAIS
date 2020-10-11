@@ -18,6 +18,46 @@ DVD'S MUSICAIS
 </item>
 
 <item>
+<title>[COLOR silver][B] RAIMUNDOS - ACÚSTICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ec6afe75931c09b441957ee2bf770356e0b5eb7&dn=Raimundos%20-%20Acustico%20[2017]%20[DVDRip]%20-%20NACIONAL%20-%20COMANDOTORRENTS.COM.mp4&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=udp://tracker.prq.to/announce&tr=http://tracker.yify-torrents.com/anno...&tr=udp://tracker.1337x.org:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/a...&tr=http://tracker.blazing.de/announce&tr=udp://9.rarbg.com:2740/announce&tr=http://bt.careland.com.cn:6969/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=http://exodus.desync.com:6969/announce</link>
+<thumbnail>https://http2.mlstatic.com/kit-raimundos-acustico-dvd-cd-original-lanc-2017-D_NQ_NP_830115-MLB25594636439_052017-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A banda brasiliense Raimundos lançou CD e DVD no primeiro semestre de 2017 com a gravação ao vivo de show acústico captado em duas apresentações no Teatro Positivo, em Curitiba (PR), feitas nos últimos dias 17 e 18 de novembro de 2016 com a projeção dos clipes criados por Jodele Larcher para cada uma das 27 músicas do roteiro. A cantora baiana Ivete Sangalo participa das músicas A mais pedida (Raimundos e Rodolfo Abrantes, 1999) e Baculejo (Digão, Denis Porto, Canisso, Caio e Marquim, 2014). Vocalista da banda brasiliense Capital Inicial, conterrânea dos Raimundos, Dinho Ouro Preto é o convidado de Mulher de fases (Rodolfo Abrantes e Digão, 1999). O Verdinho chegou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
 <thumbnail>https://imagem</thumbnail>
