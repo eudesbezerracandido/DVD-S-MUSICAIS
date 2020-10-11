@@ -9,26 +9,4 @@ DVD'S MUSICAIS
 <info>Começou! Sandy e Junior fizeram hoje o primeiro show da turnê Nossa História, no Recife. A dupla se apresentou diante de uma plateia de 11 mil pessoas e lotou o Classic Hall. Como prometido, eles revisitaram hits de todas as épocas dos 17 anos de carreira em duas horas de show. A emoção tomou conta tanto dos artistas como do público, que participou cantando forte todas as letras mesmo após a longa pausa de 12 anos.... - Veja mais em https://entretenimento.uol.com.br/noticias/redacao/2019/07/12/sandy-e-junior-no-recife-tudo-o-que-rolou-no-primeiro-show-da-turne-nossa-historia.htm?cmpid=copiaecola</info>
 </item>
 
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
 
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
