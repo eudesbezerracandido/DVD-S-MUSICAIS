@@ -26,51 +26,13 @@ DVD'S MUSICAIS
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] BUTECO DO GUSTAVO LIMA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8907594BCA550506634A3F607D17A2590B13E863&dn=Buteco.do.Gusttavo.Lima.2015.DVD-R.THYRSO10-www.sofilmeseseriados.org.iso&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/3247587/1002175384.jpg?v=637034209497200000</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Gusttavo Lima, um dos maiores nomes do sertanejo universitário está de volta com o novo CD e DVD “Buteco do Gusttavo Lima”. O projeto conta com 14 faixas (CD) e 25 faixas (DVD), que trazem o melhor do gênero em versões especiais de grandes clássicos. Neste show de tantos hits não poderia faltar a participação de importantes artistas cantando ao lado de anfitrião e animando o público. O espetáculo teve a presença da dupla Jorge & Mateus nas músicas “Olha o Amor” e “Tá Faltando Eu”, de Zezé Di Camargo & Luciano em “Saudade” e “Do Outro Lado da Moeda”, de Bruno & Marrone em “Nem Dormindo Eu Consigo Te Esquecer” e de Leonardo em “Rumo à Goiânia”. Além disso, Alcino Landim, pai de Gusttavo, pôde cantar ao lado do filho o Pot-pourri com as músicas “Morena Bonita”, “Calma Fria” e “Doce Amada”.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
 
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
 
 
