@@ -25,13 +25,7 @@ DVD'S MUSICAIS
 <info> A banda brasiliense Raimundos lançou CD e DVD no primeiro semestre de 2017 com a gravação ao vivo de show acústico captado em duas apresentações no Teatro Positivo, em Curitiba (PR), feitas nos últimos dias 17 e 18 de novembro de 2016 com a projeção dos clipes criados por Jodele Larcher para cada uma das 27 músicas do roteiro. A cantora baiana Ivete Sangalo participa das músicas A mais pedida (Raimundos e Rodolfo Abrantes, 1999) e Baculejo (Digão, Denis Porto, Canisso, Caio e Marquim, 2014). Vocalista da banda brasiliense Capital Inicial, conterrânea dos Raimundos, Dinho Ouro Preto é o convidado de Mulher de fases (Rodolfo Abrantes e Digão, 1999). O Verdinho chegou.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] BUTECO DO GUSTAVO LIMA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8907594BCA550506634A3F607D17A2590B13E863&dn=Buteco.do.Gusttavo.Lima.2015.DVD-R.THYRSO10-www.sofilmeseseriados.org.iso&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80</link>
-<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/3247587/1002175384.jpg?v=637034209497200000</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Gusttavo Lima, um dos maiores nomes do sertanejo universitário está de volta com o novo CD e DVD “Buteco do Gusttavo Lima”. O projeto conta com 14 faixas (CD) e 25 faixas (DVD), que trazem o melhor do gênero em versões especiais de grandes clássicos. Neste show de tantos hits não poderia faltar a participação de importantes artistas cantando ao lado de anfitrião e animando o público. O espetáculo teve a presença da dupla Jorge & Mateus nas músicas “Olha o Amor” e “Tá Faltando Eu”, de Zezé Di Camargo & Luciano em “Saudade” e “Do Outro Lado da Moeda”, de Bruno & Marrone em “Nem Dormindo Eu Consigo Te Esquecer” e de Leonardo em “Rumo à Goiânia”. Além disso, Alcino Landim, pai de Gusttavo, pôde cantar ao lado do filho o Pot-pourri com as músicas “Morena Bonita”, “Calma Fria” e “Doce Amada”.</info>
-</item>
+
 
 
 
