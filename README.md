@@ -33,13 +33,7 @@ DVD'S MUSICAIS
 <info>Quando o assunto é heavy metal, Iron Maiden tem de ser obrigatoriamente lembrada. Com seus clássicos irresistíveis, a banda britânica, que tem 16 álbuns de estúdio gravados, promete enlouquecer a Cidade do Rock também nesta edição, em que apresentará uma produção cênica inédita num show que reunirá músicas sobre guerra, religião e inferno – “Legacy of the Beast”. A turnê vem sendo aclamada por público e mídia como a mais espetacular até hoje da banda, também por seu incrível efeito visual. No dia 4 de outubro, portanto, Iron Maiden’s gonna get you, all of you.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] IRON MAIDEN - SÃO PAULO... [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:237519B4E7ACFF2B0DC9263C199C13BF45A2043E</link>
-<thumbnail>https://media.s-bol.com/YkMJ69EwgKK/550x552.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Neste domingo, britânicos fizeram a apresentação de número 188 da história do estádio. Após oito anos da primeira visita ao Morumbi, o Iron Maiden voltou à casa são-paulina na noite deste domingo (6) em um show para mais de 62 mil pessoas.7 de out. de 2019</info>
-</item>
+
 
 
 
