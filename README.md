@@ -25,6 +25,14 @@ DVD'S MUSICAIS
 <info> A banda brasiliense Raimundos lançou CD e DVD no primeiro semestre de 2017 com a gravação ao vivo de show acústico captado em duas apresentações no Teatro Positivo, em Curitiba (PR), feitas nos últimos dias 17 e 18 de novembro de 2016 com a projeção dos clipes criados por Jodele Larcher para cada uma das 27 músicas do roteiro. A cantora baiana Ivete Sangalo participa das músicas A mais pedida (Raimundos e Rodolfo Abrantes, 1999) e Baculejo (Digão, Denis Porto, Canisso, Caio e Marquim, 2014). Vocalista da banda brasiliense Capital Inicial, conterrânea dos Raimundos, Dinho Ouro Preto é o convidado de Mulher de fases (Rodolfo Abrantes e Digão, 1999). O Verdinho chegou.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] IRON MAIDEN -  TOUR ROCK IN RIO ( LEGACY OF THE BEAST TOUR ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b967e3177889287619388cf5428047203fc37f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kGXfij4iTiXNFRU56SoiyNrFGJI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o assunto é heavy metal, Iron Maiden tem de ser obrigatoriamente lembrada. Com seus clássicos irresistíveis, a banda britânica, que tem 16 álbuns de estúdio gravados, promete enlouquecer a Cidade do Rock também nesta edição, em que apresentará uma produção cênica inédita num show que reunirá músicas sobre guerra, religião e inferno – “Legacy of the Beast”. A turnê vem sendo aclamada por público e mídia como a mais espetacular até hoje da banda, também por seu incrível efeito visual. No dia 4 de outubro, portanto, Iron Maiden’s gonna get you, all of you.</info>
+</item>
+
 
 
 
