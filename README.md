@@ -33,6 +33,15 @@ DVD'S MUSICAIS
 <info>Quando o assunto é heavy metal, Iron Maiden tem de ser obrigatoriamente lembrada. Com seus clássicos irresistíveis, a banda britânica, que tem 16 álbuns de estúdio gravados, promete enlouquecer a Cidade do Rock também nesta edição, em que apresentará uma produção cênica inédita num show que reunirá músicas sobre guerra, religião e inferno – “Legacy of the Beast”. A turnê vem sendo aclamada por público e mídia como a mais espetacular até hoje da banda, também por seu incrível efeito visual. No dia 4 de outubro, portanto, Iron Maiden’s gonna get you, all of you.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CHARLIE BROWN Jr. AO VIVO-CHEGOU QUEM FALTAVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea628c70692f833ae7305755afb56608a4d467b2</link>
+<thumbnail>https://www.themoviedb.org/movie/850688-charlie-brown-jr-ao-vivo-chegou-quem-faltava</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após 10 anos, finalmente Chegou Quem Faltava! O show inédito do Charlie Brown Jr, gravado em 2011, no Citibank Hall em São Paulo, será disponibilizado pela primeira vez nas plataformas de streaming no dia 13/07, Dia Mundial do Rock.</info>
+</item>
+
+
 
 
 
